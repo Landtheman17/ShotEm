@@ -1,3 +1,10 @@
+import time
+
+msg = "Welcome to ShotEm the ultimate paintball experience (cause you play as robots)"
+
+print(msg, end="\r", flush=True)
+time.sleep(3)
+print(" " * len(msg), end="\r")
 print("Controls: WASD to move. 'j' to shoot. Type 'quit' to stop.")
 char_x=10
 char_y=10
