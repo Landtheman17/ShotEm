@@ -1,4 +1,5 @@
 import time
+import pygame
 
 msg = "Welcome to ShotEm the ultimate paintball experience (cause you play as robots)"
 
