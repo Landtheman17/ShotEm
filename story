@@ -7,4 +7,4 @@ in this futuristic city, there's an annual tournament called the Neon Blitz Pain
 In the final round, 1045 leads a daring infiltration, guiding its team through smoke and laser barriers, until—paint splashes everywhere—they claim the championship.
 in this futuristic city, there's an annual tournament called the Neon Blitz Paintball League. Teams from all over the world bring custom paintball guns equipped with smart targeting systems.
 1045, a cutting-edge robot with precision sensors, is paired with a team of strategic  players. Each gun fires different kinds of paint—some that explode on impact, others that leave a trail, and even ones that send holographic decoys.
-In the final round, Vex leads a daring infiltration, guiding its team through smoke and laser barriers, until—paint splashes everywhere—they claim the championship.
+In the final round, 1045 leads a daring infiltration, guiding its team through smoke and laser barriers, until—paint splashes everywhere—they claim the championship.
